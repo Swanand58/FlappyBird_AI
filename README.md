@@ -25,7 +25,7 @@ pip install neat-python
 
 ```bash
 git clone https://github.com/Swanand58/FlappyBird_AI.git
-cd flappy-bird-nea
+
 ```
 
 - Run the python file
